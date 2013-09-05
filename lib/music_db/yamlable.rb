@@ -1,6 +1,6 @@
 require 'yaml'
 
-module YAMLable
+module Music_DB::YAMLable
     def to_yaml
       YAML.dump(attributes)
     end

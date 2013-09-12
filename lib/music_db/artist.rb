@@ -6,7 +6,7 @@ class MusicDB::Artist
 
   attr_accessor :name
 
-#@param [String] name The artist's name
+  # @param [String] name The artist's name
   def initialize(name)
     @name = name
   end

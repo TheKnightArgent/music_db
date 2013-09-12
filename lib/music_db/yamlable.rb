@@ -11,7 +11,7 @@ module Music_DB::YAMLable
     end
 
   # Writes YAML info to file
-  #@param [String] filename Filename to be created.  If nil, use 'unknown'
+  # @param [String] filename Filename to be created.  If nil, use 'unknown'
   def dump(filename=nil)
     filename ||= 'unknown'
 

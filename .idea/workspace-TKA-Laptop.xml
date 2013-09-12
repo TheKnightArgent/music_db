@@ -2,24 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="707d43e1-e4e5-4414-ae7e-8ce1c9881589" name="Default" comment="Commit from RubyMine again">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/song_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/music_db/artist.rb" afterPath="$PROJECT_DIR$/lib/music_db/artist.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/music_db/song.rb" afterPath="$PROJECT_DIR$/lib/music_db/song.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/music_db/yamlable.rb" afterPath="$PROJECT_DIR$/lib/music_db/yamlable.rb" />
     </list>
     <ignored path="music_db.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/song.rb" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378942504512" ignored="false" />
-    <file path="/Dummy.txt" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378947805811" ignored="false" />
-    <file path="/artist.rb" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378942595183" ignored="false" />
-    <file path="/yamlable.rb" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378942670961" ignored="false" />
+    <file path="/song.rb" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378350081571" ignored="false" />
+    <file path="/Dummy.txt" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378947574046" ignored="false" />
+    <file path="/artist.rb" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378350227226" ignored="false" />
+    <file path="/yamlable.rb" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378351496224" ignored="false" />
     <file path="/music_db.rb" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378349622383" ignored="false" />
     <file path="/a.rxml" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378429499185" ignored="false" />
     <file path="/a.js" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378429510177" ignored="false" />
     <file path="/Ruby Console" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378436789775" ignored="false" />
-    <file path="/music_db.gemspec" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378936242649" ignored="false" />
-    <file path="/song_spec.rb" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378938712702" ignored="false" />
-    <file path="/README.md" changelist="707d43e1-e4e5-4414-ae7e-8ce1c9881589" time="1378948953424" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,55 +36,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="song_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/song_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="song.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/music_db/song.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="0" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
+            <state line="4" column="20" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="artist.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/music_db/artist.rb">
+      <file leaf-file-name="song_spec.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spec/song_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="4" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yamlable.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/music_db/yamlable.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="4" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="music_db.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/music_db.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
+            <state line="8" column="5" selection-start="173" selection-end="173" vertical-scroll-proportion="0.23327616">
               <folding />
             </state>
           </provider>
@@ -115,12 +76,9 @@
         <option value="$PROJECT_DIR$/artist.rb" />
         <option value="$PROJECT_DIR$/song.rb" />
         <option value="$PROJECT_DIR$/lib/music_db.rb" />
-        <option value="$PROJECT_DIR$/music_db.gemspec" />
         <option value="$PROJECT_DIR$/lib/music_db/song.rb" />
-        <option value="$PROJECT_DIR$/spec/song_spec.rb" />
-        <option value="$PROJECT_DIR$/lib/music_db/yamlable.rb" />
         <option value="$PROJECT_DIR$/lib/music_db/artist.rb" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/music_db/yamlable.rb" />
       </list>
     </option>
   </component>
@@ -156,23 +114,12 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="music_db" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="music_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="music_db" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -223,13 +170,14 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaScript/playground" />
     <property name="FullScreen" value="false" />
     <property name="options.searchVisible" value="true" />
@@ -407,17 +355,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34596375" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13712122" sideWeight="0.43888354" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15530303" sideWeight="0.43842363" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32916266" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56111646" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56157637" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -494,6 +442,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spec/song_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="5" selection-start="173" selection-end="173" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/music_db/song.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -560,42 +515,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/music_db.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0">
+        <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/music_db/artist.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="72" selection-end="72" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/music_db/song.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="20" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/music_db/yamlable.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="4" selection-start="273" selection-end="273" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/music_db/artist.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="4" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/music_db/song.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="0" selection-start="662" selection-end="662" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="17" column="3" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/song_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="132" selection-end="132" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="4" selection-start="4" selection-end="4" vertical-scroll-proportion="0.0">
+        <state line="8" column="5" selection-start="173" selection-end="173" vertical-scroll-proportion="0.23327616">
           <folding />
         </state>
       </provider>
